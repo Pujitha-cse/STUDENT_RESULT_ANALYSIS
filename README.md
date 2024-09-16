@@ -23,15 +23,6 @@ The Student Result Analysis project aims to provide insights into student perfor
 
 • Matplotlib & Seaborn: Libraries for data visualization, used to create insightful charts and graphs.
 
-
-# The repository is structured as follows
-
-•	SRA.ipynb: Google Colab containing the code and analysis for the Bank Transaction Analysis project.
-
-•	Student_Result_Analysis: Directory containing the datasets used for the analysis.
-
-•	README.md: Overview of the project, including objectives, structure, and usage instructions.
-
 # Getting Started
 
 Load the Data: Ensure the dataset is placed in the data/ directory.
