@@ -27,7 +27,7 @@ The Student Result Analysis project aims to provide insights into student perfor
 
 Load the Data: Ensure the dataset is placed in the data/ directory.
 
-Run the Analysis: Open the Google Colab BTA_CCSH.ipynb to run the analysis.
+Run the Analysis: Open the Google Colab SRA.ipynb to run the analysis.
 
 Explore the Results: The notebook includes detailed explanations and visualizations to help understand customer spending behaviors.
 
